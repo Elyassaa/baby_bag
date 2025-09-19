@@ -31,6 +31,7 @@ body {
 .h-icon{
     margin: 6px;
     color: #fff0f5;
+    cursor: pointer;
 }
 
 .menu{
